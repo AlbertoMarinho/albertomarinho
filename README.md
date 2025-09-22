@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao meu perfil
+## Bem-vindo(a) ao meu perfil!
 
  <div>
   <a href="https://github.com/AlbertoMarinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertoMarinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertoMarinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoMarinho&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
