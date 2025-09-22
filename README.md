@@ -6,7 +6,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoMarinho&layout=compact&langs_count=6&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
- <img src="https://skillicons.dev/icons?i=js,html,css,react,cs,dotnet,git,github" />
+ ### 🚀 Tecnologias & Ferramentas
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,js,html,css,react,nodejs,bootstrap" /><br/>
+  <img src="https://skillicons.dev/icons?i=mssql,mongodb,postgres,git,github,azure,docker,postman,visualstudio,vscode,rabbitmq" />
+</p>
+
 </div>
  
  <br>
