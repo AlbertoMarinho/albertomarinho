@@ -20,17 +20,16 @@
 ### 📫 Como entrar em contato
 
 <p align="left">
-  <a href="mailto:albertomarinho51@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:albertomarinho51@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/albertomarinho4/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn logo" />
   </a>
   <a href="https://github.com/AlbertoMarinho" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
   </a>
 </p>
-
  
   ![Snake animation](https://raw.githubusercontent.com/AlbertoMarinho/AlbertoMarinho/output/github-contribution-grid-snake.svg)
 
