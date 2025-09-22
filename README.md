@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoMarinho&layout=compact&langs_count=6&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
- ### 🚀 Tecnologias & Ferramentas
+### 🚀 Tecnologias & Ferramentas
  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,nodejs,bootstrap" /><br/>
