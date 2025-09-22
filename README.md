@@ -11,7 +11,7 @@
 
 <div style="display: inline_block">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,nodejs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,nodejs,bootstrap,python" />
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,azure,docker,postman,visualstudio,vscode,rabbitmq" />
   </p>
 </div>
