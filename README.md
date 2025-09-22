@@ -1,22 +1,24 @@
 ## Bem-vindo(a) ao meu perfil!
 
- <div>
+<div>
   <a href="https://github.com/AlbertoMarinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertoMarinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoMarinho&layout=compact&langs_count=6&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertoMarinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoMarinho&layout=compact&langs_count=6&theme=dark"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
-### 🚀 Tecnologias & Ferramentas
- 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,nodejs,bootstrap" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,azure,docker,postman,visualstudio,vscode,rabbitmq" />
-</p>
 
+<br>
+
+### 🚀 Tecnologias & Ferramentas
+
+<div style="display: inline_block">
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,nodejs,bootstrap" /><br/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,azure,docker,postman,visualstudio,vscode,rabbitmq" />
+  </p>
 </div>
- 
- <br>
- 
+
+<br>
 ### 📫 Como entrar em contato
 
 <a href="https://www.instagram.com/alberto_marinho762/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -28,5 +30,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlbertoMarinho/AlbertoMarinho/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlbertoMarinho/AlbertoMarinho/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
